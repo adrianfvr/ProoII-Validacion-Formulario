@@ -1,0 +1,91 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: hsla(265, 53%, 29%, 1);
+  background: linear-gradient(
+    90deg,
+    hsla(265, 53%, 29%, 1) 0%,
+    hsla(24, 93%, 73%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(265, 53%, 29%, 1) 0%,
+    hsla(24, 93%, 73%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(265, 53%, 29%, 1) 0%,
+    hsla(24, 93%, 73%, 1) 100%
+  );
+}
+
+.formulario {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  row-gap: 3rem;
+}
+
+label {
+  color: #f2f2f2;
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+.input {
+  padding: 0.8rem 1rem;
+  outline: none;
+  border: none;
+  border-radius: 7px;
+}
+
+.checkbox {
+  appearance: none;
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+}
+
+#button {
+  padding: 0.6rem 1rem;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 0.3s ease-out;
+}
+#button:hover {
+  background: hsla(213, 77%, 14%, 1);
+
+  background: linear-gradient(
+    90deg,
+    hsla(213, 77%, 14%, 1) 0%,
+    hsla(202, 27%, 45%, 1) 100%
+  );
+
+  background: -moz-linear-gradient(
+    90deg,
+    hsla(213, 77%, 14%, 1) 0%,
+    hsla(202, 27%, 45%, 1) 100%
+  );
+
+  background: -webkit-linear-gradient(
+    90deg,
+    hsla(213, 77%, 14%, 1) 0%,
+    hsla(202, 27%, 45%, 1) 100%
+  );
+
+  color: #f2f2f2;
+}
