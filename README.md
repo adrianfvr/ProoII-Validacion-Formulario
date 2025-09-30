@@ -1,4 +1,4 @@
-# 📄 Formulario Interactivo con Validación - Adrian Vargas
+# 📄 Formulario con Validación
 ## Hecho por: **Adrián Felipe Vargas Rivera**
 
 Este proyecto es una práctica sencilla pero muy útil de un **formulario HTML** que incluye **estilos visuales modernos** con CSS y **validación de campos usando JavaScript**. Su objetivo es enseñar cómo capturar datos de entrada, validar campos vacíos y proporcionar retroalimentación visual al usuario mediante `alert()`.
@@ -200,4 +200,5 @@ button.addEventListener("click", (e) => {
 ## 🙌 Créditos
 Proyecto realizado por **Adrian Vargas** como ejercicio práctico.
 Degradados generados con [CSS Gradient](https://cssgradient.io/)
+
 ---
