@@ -10,7 +10,7 @@ Este proyecto es una práctica sencilla pero muy útil de un **formulario HTML**
 
 | Visual general | Campos vacíos | Formulario correcto |
 |----------------|----------------|---------------------|
-| ![Visual](./images/formulario-visual.png) | ![Vacíos](./images/formulario-vacio.png) | ![Correcto](./images/formulario-completo.png) |
+| ![Visual](./images/captura-1.png) | ![Vacíos](./images/captura-2.png) | ![Correcto](./images/captura-3.png) |
 
 ---
 
@@ -202,3 +202,4 @@ Proyecto realizado por **Adrian Vargas** como ejercicio práctico.
 Degradados generados con [CSS Gradient](https://cssgradient.io/)
 
 ---
+
